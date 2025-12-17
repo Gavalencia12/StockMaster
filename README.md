@@ -28,7 +28,7 @@ The original repository where the project is located with the changes made by th
 
 (https://github.com/AngelDiaz591/PI3-WEBGESTION)
 
-##Badges
+## Badges
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
