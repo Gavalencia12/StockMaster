@@ -9,7 +9,7 @@ Warehouse and inventory management system for an electronics store using Python 
 - python with Django (back-end integration)  
 
 ## 👩‍💻 Role and Contributions
-  **Gael Valencia** - – Back-End, Front-End Developer (Django), Database Designer  & Documentation Lead
+  **Gael Valencia** – Back-End, Front-End Developer (Django), Database Designer  & Documentation Lead
   
   - Designed and implemented database models with MySQL, integrating CRUD operations for products, suppliers, and categories.  
   - Built an intuitive web interface with HTML, CSS, and JavaScript, improving usability and efficiency in inventory control.  
@@ -18,7 +18,7 @@ Warehouse and inventory management system for an electronics store using Python 
 
 ## 🤝 Collaborators
 - [@mpegueros](https://github.com/mpegueros) – UI/UX Designer, Front-End Contributor & Documentation Lead   
-- [@Gavalencia12](https://github.com/Gavalencia12) – Back-End, Front-End Developer (Django), Database Designer  & Documentation Lead
+- [@Gavalencia12](https://github.com/Gavalencia12) – Full-Stack Developer (Django), Database Designer  & Documentation Lead
 - [@Angel1591Diaz](https://github.com/Angel591Diaz) – Back-End Developer (Django), Database Designer
 - [@Monti710](https://github.com/Monti710) – Back-End Developer (Django), Database Designer
 - [@sethiova](https://github.com/sethiova) – Back-end Developer (Django), & Docuentation Lead
