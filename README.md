@@ -27,3 +27,8 @@ Warehouse and inventory management system for an electronics store using Python 
 The original repository where the project is located with the changes made by the contributors
 
 (https://github.com/AngelDiaz591/PI3-WEBGESTION)
+
+##Badges
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
