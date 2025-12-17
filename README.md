@@ -21,7 +21,7 @@ Warehouse and inventory management system for an electronics store using Python 
 - [@Gavalencia12](https://github.com/Gavalencia12) – Back-End, Front-End Developer (Django), Database Designer  & Documentation Lead
 - [@Angel1591Diaz](https://github.com/Angel591Diaz) – Back-End Developer (Django), Database Designer
 - [@Monti710](https://github.com/Monti710) – Back-End Developer (Django), Database Designer
-- [@sethiova] (https://github.com/sethiova) – Back-end Developer (Django), & Docuentation Lead
+- [@sethiova](https://github.com/sethiova) – Back-end Developer (Django), & Docuentation Lead
 
 ## Repository
 The original repository where the project is located with the changes made by the contributors
